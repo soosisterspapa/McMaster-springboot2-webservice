@@ -1,4 +1,2 @@
 com/soosisterspapa/test/springboot/Application.java
  com.soosisterspapa.test.springboot.Application
-com/soosisterspapa/test/springboot/web/HelloController.java
- com.soosisterspapa.test.springboot.web.HelloController
