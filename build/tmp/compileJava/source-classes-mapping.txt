@@ -1,2 +1,6 @@
 com/soosisterspapa/test/springboot/Application.java
  com.soosisterspapa.test.springboot.Application
+com/soosisterspapa/test/springboot/web/HelloController.java
+ com.soosisterspapa.test.springboot.web.HelloController
+com/soosisterspapa/test/springboot/web/dto/HelloResponseDto.java
+ com.soosisterspapa.test.springboot.web.dto.HelloResponseDto
